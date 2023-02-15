@@ -1,6 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 School
 =======
 The school is open!
 >>>>>>> c48617628897a0f89af897875a4b7d6fb55b4dce
+=======
+#!/bin/bash
+School
+The school is open!
+
+>>>>>>> 9f2c10304eca5738b2a70e6f06992d2a2ebab785
